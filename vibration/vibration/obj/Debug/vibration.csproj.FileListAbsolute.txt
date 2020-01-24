@@ -1,0 +1,25 @@
+C:\Users\danrong\Desktop\vibration\vibration\bin\Debug\vibration.exe.config
+C:\Users\danrong\Desktop\vibration\vibration\obj\Debug\vibration.Calstiffness.resources
+C:\Users\danrong\Desktop\vibration\vibration\obj\Debug\vibration.Form1.resources
+C:\Users\danrong\Desktop\vibration\vibration\obj\Debug\vibration.Properties.Resources.resources
+C:\Users\danrong\Desktop\vibration\vibration\obj\Debug\vibration.csproj.GenerateResource.Cache
+C:\Users\danrong\Desktop\vibration\vibration\bin\Debug\vibration.exe
+C:\Users\danrong\Desktop\vibration\vibration\bin\Debug\vibration.pdb
+C:\Users\danrong\Desktop\vibration\vibration\obj\Debug\vibration.exe
+C:\Users\danrong\Desktop\vibration\vibration\obj\Debug\vibration.pdb
+C:\Users\danrong\Desktop\vibration\vibration\obj\Debug\vibration.csprojResolveAssemblyReference.cache
+C:\Users\danrong\Desktop\vibration\vibration\obj\Debug\vibration.InputForce.resources
+C:\Users\danrong\Desktop\大学\大二下\结构力学 程序\vibration\vibration\bin\Debug\vibration.exe.config
+C:\Users\danrong\Desktop\大学\大二下\结构力学 程序\vibration\vibration\obj\Debug\vibration.exe
+C:\Users\danrong\Desktop\大学\大二下\结构力学 程序\vibration\vibration\obj\Debug\vibration.pdb
+C:\Users\danrong\Desktop\大学\大二下\结构力学 程序\vibration\vibration\bin\Debug\vibration.exe
+C:\Users\danrong\Desktop\大学\大二下\结构力学 程序\vibration\vibration\bin\Debug\vibration.pdb
+C:\Users\danrong\Desktop\大学\大二下\结构力学 程序\vibration\vibration\obj\Debug\vibration.csprojResolveAssemblyReference.cache
+C:\Users\danrong\Desktop\大学\大二下\结构力学 程序\vibration\vibration\obj\Debug\vibration.Calstiffness.resources
+C:\Users\danrong\Desktop\大学\大二下\结构力学 程序\vibration\vibration\obj\Debug\vibration.Form1.resources
+C:\Users\danrong\Desktop\大学\大二下\结构力学 程序\vibration\vibration\obj\Debug\vibration.InputForce.resources
+C:\Users\danrong\Desktop\大学\大二下\结构力学 程序\vibration\vibration\obj\Debug\vibration.Properties.Resources.resources
+C:\Users\danrong\Desktop\大学\大二下\结构力学 程序\vibration\vibration\obj\Debug\vibration.csproj.GenerateResource.Cache
+C:\Users\danrong\Desktop\大学\大二下\结构力学 程序\vibration\vibration\bin\Debug\Interop.MLApp.dll
+C:\Users\danrong\Desktop\大学\大二下\结构力学 程序\vibration\vibration\obj\Debug\Interop.MLApp.dll
+C:\Users\danrong\Desktop\大学\大二下\结构力学 程序\vibration\vibration\obj\Debug\vibration.csproj.ResolveComReference.cache
